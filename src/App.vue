@@ -136,11 +136,11 @@ export default {
           },
         },
         vereador: {
-          '01234': {
-            nome: 'Thiago Fernando',
-            partido: 'TI',
-            imagem: './images/135-hover.png',
-          },
+          // '01234': {
+          //   nome: 'Thiago Fernando',
+          //   partido: 'TI',
+          //   imagem: './images/135-hover.png',
+          // },
           '00420': {
             nome: 'Mateus Patel',
             partido: 'SUP',
