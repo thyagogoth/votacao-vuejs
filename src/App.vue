@@ -149,7 +149,7 @@ export default {
           '00333': {
             nome: 'Tarça',
             partido: 'SUP',
-            imagem: './images/tarcicio.jpg',
+            imagem: './images/tarcisio.jpg',
           },
           '02468': {
             nome: 'Teteu',
